@@ -1,29 +1,18 @@
-<!--
-============================================================
-  README DE PERFIL DE GITHUB
-  Reemplaza estos valores antes de publicar:
-    Alejol124   -> tu usuario de GitHub (aparece ~10 veces)
-    TU_NOMBRE    -> tu nombre
-    TU_LINKEDIN  -> la parte final de tu URL de LinkedIn
-    TU_CORREO    -> tu correo de contacto
-  Este archivo va en un repo llamado EXACTAMENTE igual que tu
-  usuario (Alejol124/Alejol124), público y con README.
-============================================================
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:2563EB,100:0EA5E9&height=190&section=header&text=Alejandro+Loaiza+Villegas&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer%20%C2%B7%20.NET%20%7C%20C%23%20%7C%20React&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:111827,100:2563EB&height=190&section=header&text=Alejandro+Loaiza+Villegas&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Backend+Developer+%C2%B7+.NET+%7C+C%23+%7C+APIs&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/Alejol124">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=520&lines=Backend+Developer+%7C+.NET+%2B+C%23;Fullstack+cuando+toca%3A+React+%2B+APIs;Automatizaci%C3%B3n+de+procesos+con+RPA;Estudiante+de+Ingenier%C3%ADa+%C2%B7+Medell%C3%ADn%2C+CO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=620&lines=Backend+Developer+%7C+C%23+%2B+.NET;Dise%C3%B1o+y+desarrollo+de+APIs+REST;Bases+de+datos+%7C+PostgreSQL+%2B+SQL+Server;Fullstack+cuando+toca%3A+React+%2B+APIs" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
-<a href="mailto:alejoloaiza941@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=Alejol124&style=for-the-badge&color=512BD4&label=VISITAS" alt="Profile views"/>
+<a href="mailto:alejoloaiza941@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=3B82F6&labelColor=0D1117" alt="Email"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Alejol124&style=for-the-badge&color=2563EB&label=VISITAS" alt="Profile views"/>
 
 </div>
 
@@ -44,11 +33,18 @@ public class Developer
 }
 ```
 
-- 🧩 Construyo **aplicaciones web y APIs con .NET**, del modelo de datos al despliegue.
-- ⚙️ Vengo del mundo de la **automatización de procesos (RPA con Power Automate)**, así que le tengo cariño a todo lo que elimina trabajo manual.
-- 🗄️ Me muevo cómodo entre **SQL Server, PostgreSQL y SQLite**, con **Entity Framework Core** o **Prisma** según el proyecto.
-- 🎨 Del lado del cliente trabajo con **React** y JavaScript cuando el proyecto necesita una interfaz de verdad.
-- 🚀 Actualmente subiendo proyectos personales para mostrar cómo pienso, no solo qué sé.
+-🧩 Construyo APIs y aplicaciones backend con C# y .NET, desde el modelado de datos hasta la implementación de la lógica de negocio.
+<br/>
+-🗄️ Trabajo con SQL Server, PostgreSQL y SQLite, utilizando Entity Framework Core y Prisma según las necesidades del proyecto.
+<br/>
+-🔐 Me interesa especialmente construir sistemas con autenticación, autorización, manejo de sesiones y APIs seguras.
+<br/>
+-⚛️ También desarrollo el frontend con React y JavaScript cuando el proyecto requiere una solución full stack.
+<br/>
+-🏗️ Actualmente estoy profundizando en arquitectura de software, buenas prácticas y diseño de APIs, mientras construyo proyectos personales para llevar estos conceptos a la práctica.
+<br/>
+-🚀 Mi objetivo es crear software bien estructurado, mantenible y orientado a resolver problemas reales.
+<br/>
 
 ---
 
@@ -100,8 +96,6 @@ public class Developer
 
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </td>
   </tr>
@@ -118,14 +112,17 @@ public class Developer
   <tr>
     <td width="33%" valign="top">
 
-### 🌐 NOMBRE_DEL_PROYECTO_WEB
+### 🎸 GMZ — Plataforma de la banda
 
-Sitio web en producción, accesible al público.
-Enfocado en rendimiento, diseño responsive y una experiencia clara para el usuario final.
+Web oficial de una banda de rock/funk que quería **salirse de Spotify y vender directo a sus fans**.
+Construimos un reproductor propio de sus álbumes, tienda de merch y un checkout **pay what you want**.
 
-`React` `JavaScript` `CSS`
+Proyecto en producción, desarrollado en equipo de 3.
 
-[![Ver sitio](https://img.shields.io/badge/Ver%20en%20vivo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://URL_DEL_SITIO)
+`React` `Express` `Prisma` `Node.js`
+
+[![Ver sitio](https://img.shields.io/badge/Ver%20en%20vivo-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.gmz.com.co/)
+
 
 </td>
 <td width="33%" valign="top">
@@ -142,11 +139,14 @@ Corre en red local y se usa desde celulares y tablets.
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Bot de Reservas con IA
+### 🤖 Flujo A
 
-Bot de WhatsApp que responde consultas frecuentes y **crea reservas automáticamente**: valida disponibilidad de mesas, maneja horarios y combina mesas para grupos grandes.
+Web en producción para un asesor de Inversión: **reemplazó un proceso manual en Excel por un sistema que calcula y reparte rendimientos automáticamente.**<br><br>
+Los clientes consultan su capital, historial y rendimientos mes a mes, y el administrador maneja todo el ciclo del negocio —cierres, aportes, retiros y pagos— con transacciones seguras y cálculos financieros precisos. Backend en Hono + Prisma + PostgreSQL sobre Railway; frontend en React + Vite sobre Vercel. OTP con JWT, generación de contratos .docx y almacenamiento de documentos en la nube.
 
-`IA` `Automatización` `WhatsApp API` `PostgreSQL`
+Proyecto en producción, desarrollado de forma individual.
+
+`React` `Node.js` `Hono` `TypeScript` `JWT Auth` `REST API`
 
 ![Privado](https://img.shields.io/badge/Repositorio-privado-64748B?style=for-the-badge&logo=github&logoColor=white)
 
@@ -160,16 +160,9 @@ Bot de WhatsApp que responde consultas frecuentes y **crea reservas automáticam
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alejol124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=512BD4&include_all_commits=true&count_private=true" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alejol124&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2563EB&langs_count=8&count_private=true" alt="Top Langs" />
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Alejol124&theme=tokyonight&hide_border=true&background=00000000&ring=512BD4&fire=0EA5E9&currStreakLabel=2563EB" alt="Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alejol124&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
 
 <br/><br/>
 
@@ -193,16 +186,20 @@ Bot de WhatsApp que responde consultas frecuentes y **crea reservas automáticam
 
 ---
 
-## 🤝 Hablemos
-
 <div align="center">
 
-¿Un proyecto en .NET, una API que se necesita ordenar o un proceso que se puede automatizar?
-**Escríbeme.**
+## 🤝 Hablemos
 
-<a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:TU_CORREO"><img src="https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+¿Tienes un proyecto en **.NET**, una API por construir o una solución backend que necesita tomar forma?
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:2563EB,100:512BD4&height=120&section=footer" width="100%" />
+<br/>
+
+<a href="mailto:alejoloaiza941@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=3B82F6&labelColor=0D1117" alt="Email"/></a>&nbsp;<a href="https://github.com/Alejol124"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=3B82F6&labelColor=0D1117" alt="GitHub"/></a>
+
+<br/>
+
+<sub>📍 Medellín, Colombia · Abierto a oportunidades y proyectos freelance</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:111827,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
